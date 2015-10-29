@@ -1,0 +1,38 @@
+from Ernesto Lee to Everyone:
+Is toroiseSVN installed and configured?
+from Ernesto Lee to Everyone:
+http://docs.opennebula.org/4.14/integration/
+to Ernesto Lee (privately):
+ra_serf: The server sent a truncated HTTP response body.
+to Ernesto Lee (privately):
+fenago_legacy
+to Ernesto Lee (privately):
+subversion
+from Ernesto Lee to Everyone:
+fenago-master
+from Ernesto Lee to Everyone:
+fenago_legacy
+from Ernesto Lee to Everyone:
+Documentation
+from Ernesto Lee to Everyone:
+Please checkout those three and everyday make sure that your code changes are in there
+from Ernesto Lee to Everyone:
+and then do a checkin
+from Ernesto Lee to Everyone:
+then do an SVN update rather... (not checkin)
+from Ernesto Lee to Everyone:
+http://docs.opennebula.org/4.14/design_and_installation/quick_starts/qs_vdc.html
+from Ernesto Lee to Everyone:
+http://docs.opennebula.org/4.14/administration/users_and_groups/manage_vdcs.html
+from Ernesto Lee to Everyone:
+173.246.57.75:9869
+from Ernesto Lee to Everyone:
+oneadmin/opennebula   (console creds)
+from Ernesto Lee to Everyone:
+as admin
+from Ernesto Lee to Everyone:
+root/opennebula  (ssh creds)
+from Ernesto Lee to Everyone:
+as root
+from Ernesto Lee to Everyone:
+http://killbill.io/

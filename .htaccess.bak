@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+
+	RewriteCond %{THE_REQUEST} public/
+	RewriteRule ^public/(.*) http://104.131.31.157/$1 [R=301,L]
+
+	RewriteCond %{REQUEST_URI} !public/
+	RewriteRule ^(.*)$ /public/$1 [L]
+</IfModule>
+
